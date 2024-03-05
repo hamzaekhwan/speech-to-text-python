@@ -1,0 +1,5 @@
+Library: our_trained_model
+Language: German
+Result 1: WER: 0.25, Recognized Text: spracherkennung ist der prozess bei dem ein audiosignal mit hilfe eines computerprogramms in text übersetzt wird automatische spracherkennung ist die kunst gesprochene sprache oder ein audiosignal in geschriebenen text mit hilfe eines programms umzuwandeln hat in den letzten jahrzehnten sehr viele fortschritte geschafft
+
+
